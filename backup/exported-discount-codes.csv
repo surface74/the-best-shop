@@ -1,0 +1,3 @@
+name.en,description.en,code,cartDiscounts,cartPredicate,groups,isActive,validFrom,validUntil,references,maxApplications,maxApplicationsPerCustomer
+favorite-client,favorite-client,FAVORITE-CLIENT,3900b052-1af1-43a9-921b-8420449cef0c,,,true,,,,,
+promo_first_order,promo_first_order,FIRST-ORDER,af1f01c8-cb02-4df1-86a5-aef64a7cd90e,,,true,,,,,
