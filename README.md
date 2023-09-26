@@ -36,6 +36,6 @@ The team was created as part of the program of phase 2 of the course [JSFE2023Q1
 - Run `npm run pre-commit` before move pending changes from the working directory to the indexed files section of Git for runing Eslint and Prettier. If there are warnings or errors, you won't be able to commit.
 
 ### Video
-[The Best Shop](https://github.com/surface74/the-best-shop/blob/main/presentation/the-best-shop.mov)
+[The Best Shop](https://github.com/surface74/the-best-shop/blob/main/presentation/the-best-shop.gif)
 
 [![RS-School](https://rs.school/images/rs_school_js.svg "Visit The Rolling Scopes community")](https://rollingscopes.com/)
