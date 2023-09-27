@@ -35,7 +35,6 @@ The team was created as part of the program of phase 2 of the course [JSFE2023Q1
 - Run `npm run format` starts file formatting: indents, hyphenation, etc.
 - Run `npm run pre-commit` before move pending changes from the working directory to the indexed files section of Git for runing Eslint and Prettier. If there are warnings or errors, you won't be able to commit.
 
-### Video
-[The Best Shop](https://github.com/surface74/the-best-shop/blob/main/presentation/the-best-shop.gif)
+[![Watch the video](https://github.com/surface74/the-best-shop/blob/main/presentation/the-best-shop.jpg)](https://github.com/surface74/the-best-shop/assets/52540855/be05c99f-79fa-4ed3-99f4-69a18726404f)
 
 [![RS-School](https://rs.school/images/rs_school_js.svg "Visit The Rolling Scopes community")](https://rollingscopes.com/)
